@@ -32,7 +32,7 @@ This outlines the post-install configuration of the open-source help desk ticket
 <img src= https://i.imgur.com/9azdS5s.png
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+During this step of the installation, save the file that might not appear to be trustworthy. The setup is important to install for osticket, however it might just need to be updated.  
 </p>
 <br />
 
