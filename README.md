@@ -20,10 +20,10 @@ This outlines the post-install configuration of the open-source help desk ticket
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
+- osTicket Overview and Virtual Machine Creation
+- Installation
+- Post-Installation Setup
+- Tickets and Ticket Lifecycle
 - Item 5
 
 <h2>Configuration Steps</h2>
