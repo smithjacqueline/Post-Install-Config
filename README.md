@@ -24,7 +24,7 @@ This outlines the post-install configuration of the open-source help desk ticket
 - Installation
 - Post-Installation Setup
 - Tickets and Ticket Lifecycle
-- Item 5
+- Put the "osTicket" folder inside of "c:\inetpub\wwwroot"
 
 <h2>Configuration Steps</h2>
 
