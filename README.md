@@ -40,7 +40,7 @@ During this step of the installation, save the file that might not appear to be 
 <img src= https://i.imgur.com/OlPNLea.jpeg height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Switch the windows features on and off. A feature's checkbox can be cleared by selecting it to turn it on. A full box indicates that the functionality is only enabled partially.
 </p>
 <br />
 
